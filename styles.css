@@ -1,0 +1,74 @@
+body
+{
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding-left:0rem;
+    font-size: 1.5rem;
+    margin: 0rem 1rem;
+}
+
+.card{
+    font-size: 1.2rem;
+    margin: 1rem;
+    background-color: darkred;
+    color: white;
+}
+
+.carousel{
+    margin: 10rem;
+
+}
+
+#someid{
+    padding-top: 1.5rem;
+}
+
+
+footer{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    background-color: darkred;
+    margin: 1rem;
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    
+}
+
+
+
+
+.options{
+    font-size: 1.6rem;
+    
+}
+
+img{
+    width: 15rem;
+    height: auto;
+}
+
+.icons{
+    width:2rem;
+}
+
+#footer1{
+    color:black;
+    padding:1rem;
+    text-align: center;
+}
+
+#foot2{
+    padding-left: 50%;
+}
+
+
+
+
